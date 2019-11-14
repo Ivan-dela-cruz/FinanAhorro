@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FinApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">FinanAhorro</string>
+    <string name="menu_gallery">Graficos</string>
+    <string name="menu_slideshow">Presupuesto</string>
+    <string name="menu_tools">Configuraciones</string>
+    <string name="menu_share">Ingreso</string>
+    <string name="menu_send">Gastos</string>
+
+
+    <string name="sub_ingresos">Ingresos</string>
+    <string name="sub_gastos">Gastos</string>
+    <string name="sub_saldo">Saldos</string>
+
+</resources>
